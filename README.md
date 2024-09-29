@@ -1,30 +1,12 @@
-# AppDSExno-03
-
-**AIM:**
-
+# EX-03 Implementing Recommendation Systems
+### Aim:
 To Implement Recommendation Systems using the suitable data sets.
-
-**ALGORITHM:**
-
-STEP 1: Load the necessary Datasets.
-
-STEP 2: Include the necessary python library.
-
-STEP 3: Use Fuzzy library for handling text data.
-
-STEP 4: Perform Data Preprocessing Steps.
-
-STEP 5: Standardize column names for merging.
-
-STEP 6: Apply fuzzy matching to find similar text data between datasets.
-
-STEP 7: Perform Data transformation between datasets.
-
-STEP 8: Define a recommendation score using the features of the datasets.
-
-STEP 9: Sort the data by recommendation score.
-
-STEP 10: Export the results to a CSV file.
+### Algorithm
+STEP 1: Load the necessary Datasets and include the python libraries.<br>
+STEP 2: Use Fuzzy library for handling text data and Perform Data Preprocessing steps.<br>
+STEP 3: Standardize column names for merging and Apply fuzzy matching to find similar text data between datasets.<br>
+STEP 4: Perform Data transformation between datasets and Define a recommendation score using the features of the datasets.<br>
+STEP 5: Sort the data by recommendation score and Export the results to a CSV file.
 
 
 **CODING & OUTPUT**
